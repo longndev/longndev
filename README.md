@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-hi bru, im not gay
+love you, learning javascript?
