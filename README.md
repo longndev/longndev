@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-love you, learning javascript?
+coming soon
